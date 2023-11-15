@@ -3,15 +3,7 @@ Raffi Cahya 535220224
 
 A new Flutter project.
 
-## Getting Started
+Gambar di bawah ini adalah hasil UI dari codingan yang telah dibuat
 
-This project is a starting point for a Flutter application.
+![Screenshot (681)](https://github.com/ghostxee/535220224-flutter/assets/115912642/c266ad33-5193-4030-af4b-079a07a4d006)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
